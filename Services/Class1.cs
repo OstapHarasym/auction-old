@@ -1,4 +1,4 @@
-﻿namespace DataAccess
+﻿namespace Services
 {
     public class Class1
     {
